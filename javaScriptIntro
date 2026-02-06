@@ -1,0 +1,37 @@
+let arr = [10,20,30,40,50];
+// console.log(arr);
+// console.log(arr[0]);
+// console.log(arr[1]);
+// console.log(arr[2]);
+// console.log(arr[3]);
+// console.log(arr[4]);
+// arr[0] = 100;
+// console.log(arr[0]);
+// console.log(arr);
+
+
+//printing element using loop 
+
+
+// console.log("print element using for loop");
+// for(let idx = 0;idx<arr.length;idx++){
+//     console.log(arr[idx]);
+// }
+
+//Print element using for of loop
+
+
+// console.log("print element using for of loop");
+// for(let idx of arr){
+//     console.log(idx);
+// }
+
+//while loop
+
+console.log("print element using while loop");
+let size = arr.length;
+let idx = 0;
+while(idx<size){
+    console.log(arr[idx]);
+    idx++;
+}
