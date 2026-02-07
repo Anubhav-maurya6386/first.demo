@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- external css -->
+     <!-- <link rel="stylesheet" href="Anubhav.css"> -->
+    <!-- internal css -->
+     <style>
+        #article1{
+            background-color: aqua;
+        }
+        p{
+            color:rebeccapurple
+        }  
+        .paraclass{
+            color: aqua;
+        }
+        p,article{
+            width: 500px;
+        }
+        p.paraclass{
+            text-align: center;
+        }
+     </style>
+</head>
+<body>
+    <h1>welcome to web dev course</h1>
+    <p class="paraclass">Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio dolorum, debitis fugit quasi corporis sint ut quia itaque, minus repudiandae nostrum odit et provident quam tempore eaque, quibusdam nihil reiciendis? Officia aliquid hic, unde atque voluptas quod eligendi quo modi possimus. Voluptates perspiciatis hic, fuga consequuntur culpa perferendis ipsa aliquid?</p>
+    <p class="paraclass">welcome in to coding class</p>
+    <p >web into indian cricket as alrounder </p>
+    <article id="article1">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit fugiat maiores tenetur ad sapiente. Blanditiis, quis! Eius perferendis, velit amet quia accusamus enim facere tempora soluta sed tempore iste dolore laboriosam doloribus. Quae est molestiae, non natus beatae animi hic, dignissimos distinctio numquam delectus veniam at, nemo earum dolorem. Laudantium?</article>
+    <!-- inline css -->
+    <!-- <h1 style="background-color: aquamarine;">this is my first heading</h1>
+    <p style="background-color: aqua;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque perferendis deleniti maxime ducimus ab assumenda saepe soluta vel ipsam cupiditate? Debitis quos labore aliquam pariatur accusantium neque excepturi. Distinctio quisquam ab provident ut unde saepe optio. Iure dolore officiis, laboriosam debitis, odit porro sed quae quia nulla architecto, aliquam accusamus?</p>
+    <p style="color: burlywood;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem asperiores sunt, ducimus magnam, cupiditate aperiam nihil necessitatibus vel sit quod consectetur quidem iusto praesentium dicta voluptatum veritatis neque recusandae. Minima ex expedita non quos id iusto, voluptates suscipit deleniti neque facere vel autem molestias, aut dicta repellat fugit voluptate animi aliquid iste culpa ut rem? Distinctio, minima voluptate. Asperiores nihil ratione itaque tenetur, atque ea, nobis eum reprehenderit natus, numquam veniam incidunt nesciunt id ex libero. Consequuntur quisquam illo, eius quas fugit inventore eos excepturi. Eos magnam omnis aspernatur temporibus libero reiciendis consequatur perferendis minus voluptate vel, non amet id.</p>
+    <p style="background-color: deeppink;">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quam quod qui rem sed unde ipsam quidem! Deserunt impedit, earum facere distinctio quia repellendus natus explicabo labore voluptatum sequi blanditiis repudiandae obcaecati voluptas quas perspiciatis aspernatur. Similique accusantium ipsa fugit, commodi adipisci, maxime aut illo aliquid sed ea temporibus praesentium optio exercitationem nemo dolorem cum voluptatem fuga non iusto suscipit nobis. Distinctio vitae molestiae mollitia voluptates neque nemo voluptatibus ea accusantium, ab impedit minus, vero architecto tempora adipisci, sed magnam consequuntur libero! Non dolorum laboriosam alias dolores maxime sapiente, vitae tempore in minus quia aperiam rerum excepturi fuga distinctio! Veritatis quas iusto eligendi? Nam corporis ab culpa delectus aperiam? Inventore repellendus esse similique maiores voluptatum deleniti voluptas impedit, a dolores sapiente! Sint sed optio corrupti perspiciatis facilis? Ullam, provident facilis? Iusto saepe voluptates dolor, aliquam ducimus ratione optio repellendus consequuntur officiis ad voluptas dolorem animi ex aspernatur, ipsam, veritatis dignissimos nisi inventore cupiditate magnam dolore accusantium vero. Magni earum sequi odio, quam magnam labore porro laborum veniam, blanditiis quo eius autem ducimus totam perferendis, saepe et sint ea optio eum laudantium dolorum! Animi aspernatur illo incidunt nulla ad veniam sint doloremque voluptatum corrupti reprehenderit atque adipisci laudantium recusandae, sit enim sunt?</p>
+    <h2>this is my second heading</h2> -->
+</body>
+</html>
