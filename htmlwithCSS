@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h1{
+             background-color: aquamarine;
+            /*border-style: solid;
+            border-width: 10px;
+            border-radius: 3px;
+            border-top-color: rgb(61, 74, 74); */
+            border: solid black 5px;
+            width: 350px;
+            height: 200px;
+        }
+        .firstpara{
+            background-color: blueviolet;
+            border: solid black 5px;
+             width: 350px;
+             padding: 40px;
+             margin: 50px;
+             padding-left: 30px;
+             padding-right: 10px;
+             padding-top: 20px;
+             padding-top: 50px;
+             padding:15px 20px 25px 30px;
+             padding:20px 30px;
+        }
+        .secondpara{
+            background-color: rgb(226, 43, 168);
+            border: solid black 5px;
+             width: 350px;
+        }
+        .thirdpara{
+            background-color: rgb(226, 159, 43);
+            border: solid black 5px;
+             width: 350px;
+        }
+    </style>
+</head>
+<body>
+   <h1>welcome to webdev course</h1> 
+   <p class="firstpara">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure nemo iste dolores 
+    pariatur dicta. Cumque labore rem enim in corrupti.</p>
+    <p class="secondpara">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente iusto 
+        voluptatibus natus omnis voluptatum iure? Officia officiis facilis ratione cum
+        repellendus nemo ad, eius asperiores maxime, dolor recusandae animi, minima 
+        excepturi natus odit earum aliquid impedit! Obcaecati omnis ipsum magnam 
+        maxime doloremque quos, quisquam alias et architecto, optio itaque ad.</p>
+        <p class="thirdpara">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis quam 
+            aspernatur eum asperiores, ut a optio? Vel officia id totam.</p>
+</body>
+</html>
