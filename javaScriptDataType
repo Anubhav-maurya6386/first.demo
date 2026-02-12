@@ -1,0 +1,37 @@
+ console.log("Hello world");
+// alert("welcome to js ");
+
+let x = 5;// cannot be redeclared but update available
+console.log("The value of x is: ",x);
+x = 15;
+console.log("The value of x is: ",x);
+
+
+var y = 15;//it is redeclared and update also
+console.log("The value of y is: ",y);
+var y = 20;
+console.log("The value of y is: ",y);
+
+
+
+const z = 5;//it is not redeclared and not update happen
+console.log("the value of z is: ",z);
+
+
+
+//DATA TYPES
+let a = 50;
+console.log("the type of a is: ",typeof(a));
+let b = 13.45;
+console.log("the type of b is: ",typeof(b));
+let c =true;
+console.log("the type of c is: ",typeof(c));
+let d = 'a';
+console.log("the type of d is: ",typeof(d));
+let e = "anup";
+console.log("the type of e is: ",typeof(e));
+let f = null;
+console.log("the type of f is: ",typeof(f));
+let g;
+console.log("the type of g is: ",typeof(g));
+
